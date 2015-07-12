@@ -6,18 +6,21 @@ Free for personal and commercial use under the CCA 3.0 license
 Atlantis College is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 and an assortment of pre-styled elements.
 <ul>
-<li>Built on Skel 3</li>
-<li>It uses flexbox <em>(not supported on IE8/9, but non-flexbox fallbacks are included)</em>, which eliminates all kinds of terrible hacks and clunky layout stopgaps (like CSS grid systems)</li>
+	<li>Built on Skel 3</li>
+	<li>It uses flexbox <em>(not supported on IE8/9, but non-flexbox fallbacks are included)</em>, which eliminates all kinds of terrible hacks and clunky layout stopgaps (like CSS grid systems)</li>
+	<li>Icons: Font Awesome <em>(fontawesome.github.com/Font-Awesome)</em></li>
+	<li>
+		Other:
+		<ul>
+			<li>HTML5 & CSS3</li>
+			<li>jQuery</li>
+			<li>html5shiv.js</li>
+			<li>background-size polyfill (github.com/louisremi)</li>
+			<li>Respond.js (j.mp/respondjs)</li>
+			<li>Skel (skel.io)</li>
+		</ul>
+	</li>
 </ul>
-
-Icons: Font Awesome (fortawesome.github.com/Font-Awesome)
-Other:
-	HTML5 & CSS3
-	jQuery
-	html5shiv.js
-	background-size polyfill (github.com/louisremi)
-	Respond.js (j.mp/respondjs)
-	Skel (skel.io)
 
 
 <h3>GITHUB</h3>
