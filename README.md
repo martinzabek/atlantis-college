@@ -40,16 +40,16 @@ That command does the same thing as the previous one, but the target directory i
 WEBSITE STRUCTURE
 
 <pre><code>
-root
-	&bull; assets
-		&bull; css
-			&brvbar; images
+<em>root</em>
+	&bull; <strong>assets</strong>
+		&bull; <strong>css</strong>
+			&bull; <strong>images</strong>
 			&brvbar; font-awesome.min.css
 			&brvbar; ie8.css
 			&brvbar; ie9.css
 			&brvbar; main.css
-		&bull; js
-			&bull; ie
+		&bull; <strong>js</strong>
+			&bull; <strong>ie</strong>
 				&brvbar; backgroundsize.min.htc
 				&brvbar; html5shiv.js
 				&brvbar; respond.min.js
@@ -59,20 +59,20 @@ root
 			&brvbar; main.js
 			&brvbar; skel.min.js
 			&brvbar; util.js
-	&bull; courses
-		&bull; administration
+	&bull; <strong>courses</strong>
+		&bull; <strong>administration</strong>
 			&brvbar; index.html
-		&bull; english-department
+		&bull; <strong>english-department</strong>
 			&brvbar; index.html
-		&bull; guidance
+		&bull; <strong>guidance</strong>
 			&brvbar; index.html
-		&bull; math
+		&bull; <strong>math</strong>
 			&brvbar; index.html
-		&bull; science
+		&bull; <strong>science</strong>
 			&brvbar; index.html
-		&bull; social-studies
+		&bull; <strong>social-studies</strong>
 			&brvbar; index.html
-	&bull; images
+	&bull; <strong>images</strong>
 	&brvbar; about.html
 	&brvbar; app.yaml
 	&brvbar; apply.html
