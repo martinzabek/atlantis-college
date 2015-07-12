@@ -26,9 +26,9 @@ GITHTUB
 
 Atlantis College Website is available as a Github repository (https://github.com/martinzabek/atlantis-college)
 
-<p>Download: https://github.com/martinzabek/atlantis-college/archive/master.zip</p>
-<p>Clone (HTTPS): https://github.com/martinzabek/atlantis-college.git</p>
-<p>Clone (SSH): git@github.com:martinzabek/atlantis-college.git</p>
+<p><strong>Download</strong>: https://github.com/martinzabek/atlantis-college/archive/master.zip</p>
+<p><strong>Clone</strong> (<em>HTTPS</em>): https://github.com/martinzabek/atlantis-college.git</p>
+<p><strong>Clone</strong> (<em>SSH</em>): git@github.com:martinzabek/atlantis-college.git</p>
 
 To clone repository to your local machine:
 - Open terminal and type "git clone git@github.com:martinzabek/atlantis-college.git" 
