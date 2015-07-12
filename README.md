@@ -1,9 +1,7 @@
-Atlantis College Website
+<h1><strong><em>Atlantis College</em></strong> Website</h1>
+<p>Original HTML5 template designed by HTML5 UP (html5up.net). Free for personal and commercial use under the CCA 3.0 license</p>
 
-Original HTML5 template designed by HTML5 UP (html5up.net)
-Free for personal and commercial use under the CCA 3.0 license
-
-Atlantis College is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
+<strong><em>Atlantis College</em></strong> is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 and an assortment of pre-styled elements.
 <ul>
 	<li>Built on Skel 3</li>
@@ -24,7 +22,7 @@ and an assortment of pre-styled elements.
 
 
 <h3>GITHUB</h3>
-Atlantis College Website is available as a Github repository (https://github.com/martinzabek/atlantis-college)
+<strong><em>Atlantis College</em></strong> Website is available as a Github repository (https://github.com/martinzabek/atlantis-college)
 
 <p><strong>Download</strong>: https://github.com/martinzabek/atlantis-college/archive/master.zip</p>
 <p><strong>Clone</strong> (<em>HTTPS</em>): https://github.com/martinzabek/atlantis-college.git</p>
