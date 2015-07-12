@@ -30,12 +30,18 @@ and an assortment of pre-styled elements.
 </ul>
 
 To clone repository to your local machine:
-- Open terminal and type
-<pre><code>git clone git@github.com:martinzabek/atlantis-college.git</code></pre>
-This will create a directory named <strong>atlantis-college</strong>, initializes a .git directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version.
-If you want to clone the repository into a directory named something other than "atlantis-college", you can specify that as the next command-line option:
-- "git clone git@github.com:martinzabek/atlantis-college.git mydirectory"
-That command does the same thing as the previous one, but the target directory is called "mydirectory"
+<ul>
+	<li>
+		Open terminal and type
+		<pre><code>git clone git@github.com:martinzabek/atlantis-college.git</code></pre>
+		This will create a directory named <strong>atlantis-college</strong>, initializes a <em>.git</em> directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version.<br/>
+	</li>
+	<li>
+		If you want to clone the repository into a directory named something other than "atlantis-college", you can specify that as the next command-line option:
+		<pre><code>git clone git@github.com:martinzabek/atlantis-college.git mydirectory</code></pre>
+		That command does the same thing as the previous one, but the target directory is called <strong>mydirectory</strong>
+	</li>
+</ul>
 
 <h3>WEBSITE STRUCTURE</h3>
 
