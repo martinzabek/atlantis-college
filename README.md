@@ -23,10 +23,11 @@ and an assortment of pre-styled elements.
 
 <h3>GITHUB</h3>
 <strong><em>Atlantis College</em></strong> Website is available as a Github repository (https://github.com/martinzabek/atlantis-college)
-
-<p><strong>Download</strong>: https://github.com/martinzabek/atlantis-college/archive/master.zip</p>
-<p><strong>Clone</strong> (<em>HTTPS</em>): https://github.com/martinzabek/atlantis-college.git</p>
-<p><strong>Clone</strong> (<em>SSH</em>): git@github.com:martinzabek/atlantis-college.git</p>
+<ul>
+	<li><strong>Download</strong>: https://github.com/martinzabek/atlantis-college/archive/master.zip</li>
+	<li><strong>Clone</strong> (<em>HTTPS</em>): https://github.com/martinzabek/atlantis-college.git</li>
+	<li><strong>Clone</strong> (<em>SSH</em>): git@github.com:martinzabek/atlantis-college.git</li>
+</ul>
 
 To clone repository to your local machine:
 - Open terminal and type "git clone git@github.com:martinzabek/atlantis-college.git" 
