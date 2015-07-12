@@ -96,13 +96,27 @@ To clone repository to your local machine:
 	++ favicons
 </code></pre>
 
-References:
-GIT Clone: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository
-Creating new app with Google App Engine:
-	https://developers.google.com/eclipse/docs/appengine
-	https://cloud.google.com/appengine/docs
-Hosting static website (Google App Engine):
-	http://www.labnol.org/internet/host-website-on-google-app-engine/18801/
-	http://www.hongkiat.com/blog/host-website-google-server/
-Using static files (Google App Engine):
-	https://cloud.google.com/appengine/docs/python/gettingstartedpython27/staticfiles
+<h3>References:</h3>
+<ul>
+	<li>GIT Clone: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository</li>
+	<li>
+		Creating new app with Google App Engine:
+		<ul>
+			<li>https://developers.google.com/eclipse/docs/appengine</li>
+			<li>https://cloud.google.com/appengine/docs</li>
+		</ul>
+	</li>
+	<li>
+		Hosting static website (Google App Engine):
+		<ul>
+			<li>http://www.labnol.org/internet/host-website-on-google-app-engine/18801/</li>
+			<li>http://www.hongkiat.com/blog/host-website-google-server/</li>
+		</ul>
+	</li>
+	<li>
+		Using static files (Google App Engine):
+		<ul>
+			<li>https://cloud.google.com/appengine/docs/python/gettingstartedpython27/staticfiles</li>
+		</ul>
+	</li>
+</ul>
