@@ -1,8 +1,10 @@
 <h1><strong><em>Atlantis College</em></strong> Website</h1>
 <p>Original HTML5 template designed by HTML5 UP (html5up.net). Free for personal and commercial use under the CCA 3.0 license</p>
-
-<strong><em>Atlantis College</em></strong> is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements.
+<p>
+	<strong><em>Atlantis College</em></strong> is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
+	and an assortment of pre-styled elements.
+	<strong><em>Atlantis College</em></strong> is a static website built using HTML5, CSS and jQuery
+</p>
 <ul>
 	<li>Built on Skel 3</li>
 	<li>It uses flexbox <em>(not supported on IE8/9, but non-flexbox fallbacks are included)</em>, which eliminates all kinds of terrible hacks and clunky layout stopgaps (like CSS grid systems)</li>
