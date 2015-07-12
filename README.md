@@ -43,50 +43,50 @@ WEBSITE STRUCTURE
 root
 	&bull; assets
 		&bull; css
-			-- images
-			-- font-awesome.min.css
-			-- ie8.css
-			-- ie9.css
-			-- main.css
+			&brvbar; images
+			&brvbar; font-awesome.min.css
+			&brvbar; ie8.css
+			&brvbar; ie9.css
+			&brvbar; main.css
 		&bull; js
 			&bull; ie
-				-- backgroundsize.min.htc
-				-- html5shiv.js
-				-- respond.min.js
-			-- jquery.min.js
-			-- jquery.scrollex.min.js
-			-- jquery.scrolly.min.js
-			-- main.js
-			-- skel.min.js
-			-- util.js
+				&brvbar; backgroundsize.min.htc
+				&brvbar; html5shiv.js
+				&brvbar; respond.min.js
+			&brvbar; jquery.min.js
+			&brvbar; jquery.scrollex.min.js
+			&brvbar; jquery.scrolly.min.js
+			&brvbar; main.js
+			&brvbar; skel.min.js
+			&brvbar; util.js
 	&bull; courses
 		&bull; administration
-			-- index.html
+			&brvbar; index.html
 		&bull; english-department
-			-- index.html
+			&brvbar; index.html
 		&bull; guidance
-			-- index.html
+			&brvbar; index.html
 		&bull; math
-			-- index.html
+			&brvbar; index.html
 		&bull; science
-			-- index.html
+			&brvbar; index.html
 		&bull; social-studies
-			-- index.html
+			&brvbar; index.html
 	&bull; images
-	-- about.html
-	-- app.yaml
-	-- apply.html
-	-- browserconfig.xml
-	-- contact.html
-	-- courses.html
-	-- index.html
-	-- LICENSE
-	-- links.html
-	-- main.py
-	-- manifest.json
-	-- README.md
-	-- robots.txt
-	-- student-finance.html
+	&brvbar; about.html
+	&brvbar; app.yaml
+	&brvbar; apply.html
+	&brvbar; browserconfig.xml
+	&brvbar; contact.html
+	&brvbar; courses.html
+	&brvbar; index.html
+	&brvbar; LICENSE
+	&brvbar; links.html
+	&brvbar; main.py
+	&brvbar; manifest.json
+	&brvbar; README.md
+	&brvbar; robots.txt
+	&brvbar; student-finance.html
 	++ favicons
 </code></pre>
 
