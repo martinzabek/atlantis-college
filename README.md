@@ -74,12 +74,12 @@ WEBSITE STRUCTURE
 			&brvbar; index.html
 	&bull; <strong>images</strong>
 	&brvbar; about.html
-	&brvbar; <em style="color:#cd1c1f">app.yaml</em>
+	&brvbar; <em>app.yaml</em>
 	&brvbar; apply.html
 	&brvbar; browserconfig.xml
 	&brvbar; contact.html
 	&brvbar; courses.html
-	&brvbar; index.html
+	&brvbar; <em>index.html</em>
 	&brvbar; LICENSE
 	&brvbar; links.html
 	&brvbar; main.py
