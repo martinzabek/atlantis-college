@@ -5,12 +5,10 @@ Free for personal and commercial use under the CCA 3.0 license
 
 Atlantis College is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 and an assortment of pre-styled elements.
-
-- Built on Skel 3
-
-- It uses flexbox*, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-* = not supported on IE8/9, but non-flexbox fallbacks are included
+<ul>
+<li>Built on Skel 3</li>
+<li>It uses flexbox <em>(not supported on IE8/9, but non-flexbox fallbacks are included)</em>, which eliminates all kinds of terrible hacks and clunky layout stopgaps (like CSS grid systems)</li>
+</ul>
 
 Icons: Font Awesome (fortawesome.github.com/Font-Awesome)
 Other:
