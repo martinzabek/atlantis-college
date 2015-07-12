@@ -39,6 +39,7 @@ That command does the same thing as the previous one, but the target directory i
 
 WEBSITE STRUCTURE
 
+<code>
 root
 	-- assets
 		-- css
@@ -87,6 +88,7 @@ root
 	-- robots.txt
 	-- student-finance.html
 	++ favicons
+</code>
 
 References:
 GIT Clone: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository
