@@ -1,6 +1,6 @@
+<h1><strong><em>Atlantis College</em></strong> Website</h1>
 ![Alt text](screenshot.png?raw=true "Atlantis COLLEGE OF BUSINESS AND COMPUTING")
 
-<h1><strong><em>Atlantis College</em></strong> Website</h1>
 <p>Original HTML5 template designed by HTML5 UP (html5up.net). Free for personal and commercial use under the CCA 3.0 license</p>
 <p>
 	<strong><em>Atlantis College</em></strong> is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
