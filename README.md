@@ -3,7 +3,7 @@
 <p>
 	<strong><em>Atlantis College</em></strong> is a big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 	and an assortment of pre-styled elements.
-	<strong><em>Atlantis College</em></strong> is a static website built using HTML5, CSS and jQuery
+	<strong><em>Atlantis College</em></strong> is a static website built using HTML5, CSS and jQuery. Includes favicon pictures and HTML code that work on all major browsers and platforms.
 </p>
 <ul>
 	<li>Built on Skel 3</li>
@@ -130,6 +130,12 @@ To clone repository to your local machine:
 		Using static files (Google App Engine):
 		<ul>
 			<li>https://cloud.google.com/appengine/docs/python/gettingstartedpython27/staticfiles</li>
+		</ul>
+	</li>
+	<li>
+		Generate the favicon pictures and HTML code that work on all major browsers and platforms
+		<ul>
+			<li>http://realfavicongenerator.net/</li>
 		</ul>
 	</li>
 </ul>
