@@ -22,8 +22,7 @@ Other:
 	Skel (skel.io)
 
 
-GITHTUB
-
+<h3>GITHUB</h3>
 Atlantis College Website is available as a Github repository (https://github.com/martinzabek/atlantis-college)
 
 <p><strong>Download</strong>: https://github.com/martinzabek/atlantis-college/archive/master.zip</p>
@@ -37,7 +36,7 @@ If you want to clone the repository into a directory named something other than 
 - "git clone git@github.com:martinzabek/atlantis-college.git mydirectory"
 That command does the same thing as the previous one, but the target directory is called "mydirectory"
 
-WEBSITE STRUCTURE
+<h3>WEBSITE STRUCTURE</h3>
 
 <pre><code>
 <em>root</em>
