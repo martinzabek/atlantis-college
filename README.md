@@ -74,7 +74,7 @@ WEBSITE STRUCTURE
 			&brvbar; index.html
 	&bull; <strong>images</strong>
 	&brvbar; about.html
-	&brvbar; <font color="#cd1c1f">app.yaml</font>
+	&brvbar; <span style="color:#cd1c1f">app.yaml</span>
 	&brvbar; apply.html
 	&brvbar; browserconfig.xml
 	&brvbar; contact.html
