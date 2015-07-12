@@ -41,15 +41,15 @@ WEBSITE STRUCTURE
 
 <pre><code>
 root
-	-- assets
-		-- css
+	&bull; assets
+		&bull; css
 			-- images
 			-- font-awesome.min.css
 			-- ie8.css
 			-- ie9.css
 			-- main.css
-		-- js
-			-- ie
+		&bull; js
+			&bull; ie
 				-- backgroundsize.min.htc
 				-- html5shiv.js
 				-- respond.min.js
@@ -59,20 +59,20 @@ root
 			-- main.js
 			-- skel.min.js
 			-- util.js
-	-- courses
-		-- administration
+	&bull; courses
+		&bull; administration
 			-- index.html
-		-- english-department
+		&bull; english-department
 			-- index.html
-		-- guidance
+		&bull; guidance
 			-- index.html
-		-- math
+		&bull; math
 			-- index.html
-		-- science
+		&bull; science
 			-- index.html
-		-- social-studies
+		&bull; social-studies
 			-- index.html
-	-- images
+	&bull; images
 	-- about.html
 	-- app.yaml
 	-- apply.html
