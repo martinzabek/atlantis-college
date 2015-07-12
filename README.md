@@ -98,7 +98,12 @@ To clone repository to your local machine:
 
 <h3>References:</h3>
 <ul>
-	<li>GIT Clone: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository</li>
+	<li>
+		GIT Clone:
+		<ul>
+			<li>https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository</li>
+		</ul>
+	</li>
 	<li>
 		Creating new app with Google App Engine:
 		<ul>
