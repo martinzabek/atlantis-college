@@ -99,6 +99,12 @@ To clone repository to your local machine:
 <h3>References:</h3>
 <ul>
 	<li>
+		HTML5 free templates:
+		<ul>
+			<li>http://html5up.net/</li>
+		</ul>
+	</li>
+	<li>
 		GIT Clone:
 		<ul>
 			<li>https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository</li>
