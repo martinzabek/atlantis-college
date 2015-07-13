@@ -83,6 +83,13 @@
 		height: 0;
 	}
 
+	.clear {
+		content: '';
+		display: block;
+		clear: both;
+		height: 0;
+	}
+
 	.row.uniform > * > :first-child {
 		margin-top: 0;
 	}
@@ -3666,6 +3673,10 @@ body.contact #main > header iframe {
 	float:left;
 }
 
+body.contact #main > header iframe#contact-block {
+	width:650px;
+}
+
 body.student-finance #main > .wrapper {
 	padding:0!important;
 }
@@ -3889,3 +3900,21 @@ header#header h1 a > span img {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix {
+    *zoom: 1;
+}
